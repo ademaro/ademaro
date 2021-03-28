@@ -3,6 +3,7 @@
 More than 15 years of experience as an expert full stack developer. I can deliver excellent services. Special attention is given to accessibility, usability, SEO-optimized codes. I look for the perfect code, your satisfaction is my top priority.
 
 ![Ademaro's github stats](https://github-readme-stats.vercel.app/api?username=ademaro&count_private=true&theme=great-gatsby&show_icons=true&bg_color=-30,8a3724,713c75&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademaro&theme=great-gatsby&layout=compact&langs_count=6&bg_color=-30,8a3724,713c75&hide_border=true)
 
 ### Technologies and tools that I know and use
 
@@ -20,7 +21,6 @@ More than 15 years of experience as an expert full stack developer. I can delive
 ![Django](http://img.shields.io/badge/-Django-0C4B33?style=flat&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-0074A3?style=flat&logo=mysql&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademaro&theme=great-gatsby&layout=compact&langs_count=6&bg_color=-30,8a3724,713c75&hide_border=true)
 ![ademaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ademaro&layout=compact&langs_count=6&theme=great-gatsby&bg_color=-30,8a3724,713c75&hide_border=true)
 
  <a href="https://badges.pufler.dev">
