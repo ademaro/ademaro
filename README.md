@@ -2,7 +2,7 @@
 
 More than 15 years of experience as an expert full stack developer. I can deliver excellent services. Special attention is given to accessibility, usability, SEO-optimized codes. I look for the perfect code, your satisfaction is my top priority.
 
-![Ademaro's github stats](https://github-readme-stats.vercel.app/api?username=ademaro&count_private=true&theme=great-gatsby&show_icons=true&bg_color=0,transparent)
+![Ademaro's github stats](https://github-readme-stats.vercel.app/api?username=ademaro&count_private=true&theme=great-gatsby&show_icons=true&bg_color=0,var(--color-bg-primary))
 
 ### Technologies and tools that I know and use
 
