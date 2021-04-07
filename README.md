@@ -22,6 +22,7 @@ More than 15 years of experience as an expert full stack developer. I can delive
 ![Django](http://img.shields.io/badge/-Django-0C4B33?style=flat&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-0074A3?style=flat&logo=mysql&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat&logo=webpack)
+
 ![ademaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ademaro&layout=compact&langs_count=6&theme=great-gatsby&bg_color=-30,8a3724,713c75&hide_border=true)
 
  <a href="https://badges.pufler.dev">
