@@ -32,7 +32,7 @@ More than 15 years of experience as an expert full stack developer. I can delive
 **ademaro/ademaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
-webpack, babel, jinja2, websockets, php, nginx, uwsgi, asgi, prometheus, ecmascript, vim, zsh, vscode, linux, debian, 
+webpack, babel, jinja2, websockets, php, nginx, uwsgi, asgi, prometheus, ecmascript, vim, zsh, vscode, linux, debian, grafana
 
 ![](https://www.codewars.com/users/ademaro/badges/micro)
 
