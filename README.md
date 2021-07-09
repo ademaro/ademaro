@@ -25,9 +25,10 @@ More than 15 years of experience as an expert full stack developer. I can delive
 
 ![ademaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ademaro&layout=compact&langs_count=6&theme=great-gatsby&bg_color=-30,8a3724,713c75&hide_border=true)
 
- <a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/ademaro/ademaro?color=yellow" alt="Visitors badge" />
- </a>
+<img align="right" src="https://wakatime.com/badge/github/ademaro/ademaro.svg" alt="Wakatime badge" />
+
+<img align="right" src="https://badges.pufler.dev/visits/ademaro/ademaro?color=yellow" alt="Visitors badge" />
+
 <!--
 **ademaro/ademaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,6 +36,11 @@ More than 15 years of experience as an expert full stack developer. I can delive
 webpack, babel, jinja2, websockets, php, nginx, uwsgi, asgi, prometheus, ecmascript, vim, zsh, vscode, linux, debian, grafana
 
 ![](https://www.codewars.com/users/ademaro/badges/micro)
+
+
+ <a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/ademaro/ademaro?color=yellow" alt="Visitors badge" />
+ </a>
 
 https://github.com/anuraghazra/github-readme-stats — stats
 
