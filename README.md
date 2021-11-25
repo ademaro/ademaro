@@ -25,7 +25,7 @@ More than 15 years of experience as an expert full stack developer. I can delive
 
 ![ademaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ademaro&layout=compact&langs_count=6&theme=great-gatsby&bg_color=-30,8a3724,713c75&hide_border=true)
 
-<img align="right" src="https://wakatime.com/badge/github/ademaro/ademaro.svg" alt="Wakatime badge" />
+<img align="right" src="https://wakatime.com/badge/user/34eb2074-e871-4162-9ec9-3aa6e850b745.svg" alt="Wakatime badge" />
 
 <img align="right" src="https://badges.pufler.dev/visits/ademaro/ademaro?color=yellow" alt="Visitors badge" />
 
