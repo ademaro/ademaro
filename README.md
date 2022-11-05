@@ -24,6 +24,7 @@ More than 15 years of experience as an expert full stack developer. I can delive
 ![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat&logo=webpack)
 
 ![ademaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ademaro&layout=compact&langs_count=6&theme=great-gatsby&bg_color=-30,8a3724,713c75&hide_border=true)
+![ademaro's GitHub Streak](https://streak-stats.demolab.com?user=ademaro&theme=neon_blurange&hide_border=true&date_format=j%20M%5B%20Y%5D&background=773B63)
 
 <img align="right" src="https://wakatime.com/badge/user/34eb2074-e871-4162-9ec9-3aa6e850b745.svg" alt="Wakatime badge" />
 
