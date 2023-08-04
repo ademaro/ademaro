@@ -2,8 +2,8 @@
 
 More than 20 years of experience as an expert full stack developer. I can deliver excellent services. Special attention is given to accessibility, usability, SEO-optimized codes. I look for the perfect code, your satisfaction is my top priority.
 
-![Ademaro's github stats](https://grs.z-gu.ru/api?username=ademaro&count_private=true&theme=great-gatsby&show_icons=true&bg_color=-30,8a3724,713c75&hide_border=true&show=reviews,discussions_started,discussions_answered)
-![Top Langs](https://grs.z-gu.ru/api/top-langs/?username=ademaro&theme=great-gatsby&layout=compact&langs_count=6&bg_color=-30,8a3724,713c75&hide_border=true)
+![Ademaro's github stats](https://grs.z-gu.ru/api?username=ademaro&count_private=true&theme=great-gatsby&show_icons=true&bg_color=-30,8a3724,713c75&hide_border=true&show=reviews,discussions_started)
+![Top Langs](https://grs.z-gu.ru/api/top-langs/?username=ademaro&theme=great-gatsby&layout=compact&langs_count=8&bg_color=-30,8a3724,713c75&hide_border=true)
 
 ### Technologies and tools that I know and use
 
